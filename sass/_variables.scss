@@ -1,3 +1,6 @@
 /* Imported _variables.scss */
-$primaryColour: #0000ff;
+$bgColour: rgb(80%,80%,80%);
+$primaryColour: rgb(0%,0%,100%);
+$primaryLight: scale-color($primaryColour, $lightness: 50%);
+$primaryDark: scale-color($primaryColour, $lightness: -50%);
 $accentColour: complement($primaryColour);
