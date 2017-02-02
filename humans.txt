@@ -1,0 +1,13 @@
+/* TEAM */
+	Lead Developer: Linden Peters
+	GitHub: linden-peters
+
+/* THANKS */
+
+	SAIT Polytechnic		
+
+/* SITE */
+	Last update: 2017/02/02
+	Language: English
+	Doctype: HTML5
+	IDE: Programmer's Notepad, FileZilla
