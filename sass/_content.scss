@@ -1,0 +1,11 @@
+form {
+	input[type=text] {
+		border: 1px dotted green;
+	}
+	input[type=password] {
+		border: 1px dotted red;
+	}
+	input[type=submit] {
+		border: 1px dotted blue;
+	}
+}
